@@ -1,12 +1,11 @@
 body{
-    font-family: 'Roboto', sans-serif;}
-#header{ 
-background-color: black;
- border:white solid;
-text-align:center;
-color: yellow;} 
-#content{
+    font-family: 'Roboto', sans-serif;
     background-image:url("https://wallpaper.dog/large/17205091.jpg"); 
+}
+#top{ 
+    text-align:center;
+    color: yellow;} 
+#content{
      font-family: 'Kaisei HarunoUmi', serif;
        border: yellow 2pt solid;
       }
